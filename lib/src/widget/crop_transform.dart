@@ -1,7 +1,7 @@
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:insta_assets_crop/insta_assets_crop.dart' as insta_crop_view;
+import 'package:insta_assets_crop2/insta_assets_crop.dart' as insta_crop_view;
 import 'package:insta_assets_picker/insta_assets_picker.dart';
 
 class InstaAssetCropTransform extends StatelessWidget {

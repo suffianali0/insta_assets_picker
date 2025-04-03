@@ -2,7 +2,8 @@ import 'dart:io';
 
 import 'package:flutter/material.dart';
 import 'package:fraction/fraction.dart';
-import 'package:insta_assets_crop/insta_assets_crop.dart';
+//import 'package:insta_assets_crop/insta_assets_crop.dart';
+import 'package:insta_assets_crop2/insta_assets_crop.dart';
 import 'package:insta_assets_picker/insta_assets_picker.dart';
 
 /// Uses [InstaAssetsCropSingleton] to keep crop parameters in memory until the picker is disposed
